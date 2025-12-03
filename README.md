@@ -8,4 +8,4 @@ create a new environment
 -conda create -p venv python==3.7 -y
 
 to install all the dependencies in requirements.txt
--pip install -requirements.txt
+-pip install -r requirements.txt
